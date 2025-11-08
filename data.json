@@ -11,13 +11,15 @@
       "name": "paqna",
       "region": "EU",
       "preferredServer": "Faded",
-      "previousTier": "HT5",
-      "currentTier": "LT5"
+      "previousTier": "LT5",
+      "currentTier": "LT4"
     }
   },
   "waitlist": [],
   "queue": [],
-  "activeTesters": [],
+  "activeTesters": [
+    "1284965569568702622"
+  ],
   "waitlistMessageIds": {
     "EU": "1436721464496885770",
     "NA": "1436721466598232104",
