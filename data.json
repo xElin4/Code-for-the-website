@@ -9,13 +9,15 @@
     }
   },
   "waitlist": [],
-  "activeTesters": [],
+  "activeTesters": [
+    "1284965569568702622"
+  ],
   "waitlistMessageIds": {
     "EU": "1436721464496885770",
     "NA": "1436721466598232104",
     "OC/AS": "1436721468200456386"
   },
   "testingChannelId": "1436450295457513503",
-  "testingMessageId": "1436763681726660729",
+  "testingMessageId": "1436764731888242770",
   "currentTest": null
 }
