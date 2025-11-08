@@ -8,7 +8,9 @@
       "currentTier": "HT1"
     }
   },
-  "waitlist": [],
+  "waitlist": [
+    "1284965569568702622"
+  ],
   "activeTesters": [
     "1284965569568702622"
   ],
@@ -18,6 +20,6 @@
     "OC/AS": "1436721468200456386"
   },
   "testingChannelId": "1436450295457513503",
-  "testingMessageId": "1436764731888242770",
+  "testingMessageId": "1436765644019208386",
   "currentTest": null
 }
