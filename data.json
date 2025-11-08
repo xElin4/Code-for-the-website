@@ -8,9 +8,7 @@
       "currentTier": "HT1"
     }
   },
-  "waitlist": [
-    "1284965569568702622"
-  ],
+  "waitlist": [],
   "activeTesters": [
     "1284965569568702622"
   ],
@@ -21,5 +19,10 @@
   },
   "testingChannelId": "1436450295457513503",
   "testingMessageId": "1436765644019208386",
-  "currentTest": null
+  "currentTest": {
+    "testerId": "1284965569568702622",
+    "testeeId": "1284965569568702622",
+    "channelId": "1436767767633334342",
+    "region": "EU"
+  }
 }
