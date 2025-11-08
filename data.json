@@ -26,5 +26,6 @@
   },
   "testingChannelId": "1436450295457513503",
   "testingMessageId": "1436765644019208386",
-  "currentTest": null
+  "currentTest": null,
+  "queueActive": true
 }
