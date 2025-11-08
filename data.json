@@ -11,8 +11,8 @@
       "name": "paqna",
       "region": "EU",
       "preferredServer": "Faded",
-      "previousTier": "LT1",
-      "currentTier": "HT5"
+      "previousTier": "HT5",
+      "currentTier": "LT5"
     }
   },
   "waitlist": [],
