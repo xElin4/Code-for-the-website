@@ -6,10 +6,21 @@
       "preferredServer": "Faded",
       "previousTier": "Unranked",
       "currentTier": "HT1"
+    },
+    "1201567952902836254": {
+      "name": "paqna",
+      "region": "EU",
+      "preferredServer": "Faded",
+      "previousTier": "Unranked",
+      "currentTier": "Unranked"
     }
   },
-  "waitlist": [],
-  "activeTesters": [],
+  "waitlist": [
+    "1201567952902836254"
+  ],
+  "activeTesters": [
+    "1284965569568702622"
+  ],
   "waitlistMessageIds": {
     "EU": "1436721464496885770",
     "NA": "1436721466598232104",
