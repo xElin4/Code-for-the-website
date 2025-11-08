@@ -16,9 +16,7 @@
     }
   },
   "waitlist": [],
-  "queue": [
-    "1284965569568702622"
-  ],
+  "queue": [],
   "activeTesters": [
     "1284965569568702622"
   ],
@@ -30,5 +28,5 @@
   "testingChannelId": "1436450295457513503",
   "testingMessageId": "1436765644019208386",
   "currentTest": null,
-  "queueActive": true
+  "queueActive": false
 }
