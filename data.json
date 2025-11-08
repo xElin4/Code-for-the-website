@@ -27,9 +27,7 @@
   "testingChannelId": "1436450295457513503",
   "testingMessageId": "1436765644019208386",
   "currentTest": {
-    "testerId": "1284965569568702622",
-    "testeeId": "1284965569568702622",
-    "channelId": "1436767767633334342",
-    "region": "EU"
+    "testeeId": "1201567952902836254",
+    "testerId": "1284965569568702622"
   }
 }
