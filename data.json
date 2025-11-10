@@ -17,19 +17,17 @@
   },
   "waitlist": [],
   "queue": [],
-  "activeTesters": [
-    "1284965569568702622"
-  ],
+  "activeTesters": [],
   "waitlistMessageIds": {
-    "EU": "1436721464496885770",
-    "NA": "1436721466598232104",
-    "OC/AS": "1436721468200456386"
+    "EU": "1437535902053306502",
+    "NA": "1437535904930598984",
+    "OC/AS": "1437535907564752966"
   },
   "testingChannelId": "1436450295457513503",
   "testingMessageId": "1437518044178940076",
   "currentTest": null,
   "queueActive": false,
   "lastTestingSession": {
-    "EU": 1762805404
+    "EU": 1762805661
   }
 }
