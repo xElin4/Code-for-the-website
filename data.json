@@ -1,0 +1,15 @@
+{
+  "verified": {},
+  "waitlist": [],
+  "queue": [],
+  "activeTesters": [],
+  "waitlistMessageIds": {
+    "EU": "1437791558454738956",
+    "NA": "1437536305583100146",
+    "OC/AS": "1437536307617468617"
+  },
+  "testingChannelId": "1436450295457513503",
+  "testingMessageId": "1437518044178940076",
+  "currentTest": null,
+  "queueActive": false
+}
