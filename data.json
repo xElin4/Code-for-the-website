@@ -2,7 +2,9 @@
   "verified": {},
   "waitlist": [],
   "queue": [],
-  "activeTesters": [],
+  "activeTesters": [
+    "1284965569568702622"
+  ],
   "waitlistMessageIds": {
     "EU": "1437791558454738956",
     "NA": "1437536305583100146",
@@ -10,7 +12,9 @@
   },
   "testingChannelId": "1436450295457513503",
   "testingMessageId": "1437518044178940076",
+  "leaderboardMessageId": "1437890389620162801",
   "currentTest": null,
   "queueActive": false,
+  "lastTestingSession": {},
   "leaderboard": {}
 }
