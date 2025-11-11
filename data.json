@@ -17,11 +17,9 @@
   },
   "waitlist": [],
   "queue": [],
-  "activeTesters": [
-    "1284965569568702622"
-  ],
+  "activeTesters": [],
   "waitlistMessageIds": {
-    "EU": "1437892789164572834",
+    "EU": "1437893001710928014",
     "NA": "1437891900827766794",
     "OC/AS": "1437891902908137794"
   },
@@ -30,6 +28,6 @@
   "currentTest": null,
   "queueActive": false,
   "lastTestingSession": {
-    "EU": 1762890732
+    "EU": 1762890806
   }
 }
