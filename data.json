@@ -13,6 +13,12 @@
       "preferredServer": "Faded",
       "previousTier": "LT5",
       "currentTier": "LT4"
+    },
+    "589174597849579561": {
+      "name": "UIGotLost",
+      "region": "EU",
+      "previousTier": "Unranked",
+      "currentTier": "Unranked"
     }
   },
   "waitlist": [],
