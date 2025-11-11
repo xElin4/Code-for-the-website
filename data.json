@@ -1,12 +1,27 @@
 {
-  "verified": {},
+  "verified": {
+    "1284965569568702622": {
+      "name": "Elin4",
+      "region": "EU",
+      "preferredServer": "Faded",
+      "previousTier": "HT1",
+      "currentTier": "LT1"
+    },
+    "1201567952902836254": {
+      "name": "paqna",
+      "region": "EU",
+      "preferredServer": "Faded",
+      "previousTier": "LT5",
+      "currentTier": "LT4"
+    }
+  },
   "waitlist": [],
   "queue": [],
   "activeTesters": [
     "1284965569568702622"
   ],
   "waitlistMessageIds": {
-    "EU": "1437536703110844547",
+    "EU": "1437579971299119114",
     "NA": "1437536305583100146",
     "OC/AS": "1437536307617468617"
   },
@@ -15,8 +30,6 @@
   "currentTest": null,
   "queueActive": false,
   "lastTestingSession": {
-    "EU": null,
-    "NA": null,
-    "OC/AS": null
+    "EU": 1762805811
   }
 }
