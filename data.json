@@ -1,20 +1,33 @@
 {
-  "verified": {},
+  "verified": {
+    "1284965569568702622": {
+      "name": "Elin4",
+      "region": "EU",
+      "preferredServer": "Faded",
+      "previousTier": "LT2",
+      "currentTier": "HT2"
+    },
+    "1201567952902836254": {
+      "name": "paqna",
+      "region": "EU",
+      "preferredServer": "Faded",
+      "previousTier": "LT5",
+      "currentTier": "LT4"
+    }
+  },
   "waitlist": [],
   "queue": [],
-  "activeTesters": [
-    "1284965569568702622"
-  ],
+  "activeTesters": [],
   "waitlistMessageIds": {
-    "EU": "1437791558454738956",
-    "NA": "1437536305583100146",
-    "OC/AS": "1437536307617468617"
+    "EU": "1437891925486338159",
+    "NA": "1437891900827766794",
+    "OC/AS": "1437891902908137794"
   },
   "testingChannelId": "1436450295457513503",
   "testingMessageId": "1437518044178940076",
-  "leaderboardMessageId": "1437890389620162801",
   "currentTest": null,
   "queueActive": false,
-  "leaderboard": {},
-  "lastTestingSession": {}
+  "lastTestingSession": {
+    "EU": 1762890490
+  }
 }
