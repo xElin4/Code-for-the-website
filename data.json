@@ -4,8 +4,8 @@
       "name": "Elin4",
       "region": "EU",
       "preferredServer": "Faded",
-      "previousTier": "HT1",
-      "currentTier": "LT1"
+      "previousTier": "LT1",
+      "currentTier": "LT2"
     },
     "1201567952902836254": {
       "name": "paqna",
@@ -27,11 +27,7 @@
   },
   "testingChannelId": "1436450295457513503",
   "testingMessageId": "1437518044178940076",
-  "currentTest": {
-    "testeeId": "1284965569568702622",
-    "testerId": "1284965569568702622",
-    "ticketChannelId": "1437795859294322790"
-  },
+  "currentTest": null,
   "queueActive": false,
   "lastTestingSession": {
     "EU": 1762866548
