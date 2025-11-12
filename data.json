@@ -4,10 +4,11 @@
       "name": "Elin4",
       "region": "EU",
       "preferredServer": "Faded",
-      "previousTier": "LT4",
-      "currentTier": "HT1",
+      "previousTier": "discontinued",
+      "currentTier": "LT5",
       "testHistory": [
-        "HT1"
+        "HT1",
+        "LT5"
       ]
     },
     "1201567952902836254": {
