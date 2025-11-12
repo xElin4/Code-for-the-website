@@ -4,8 +4,8 @@
       "name": "Elin4",
       "region": "EU",
       "preferredServer": "Faded",
-      "previousTier": "LT2",
-      "currentTier": "HT2"
+      "previousTier": "HT2",
+      "currentTier": "LT1"
     },
     "1201567952902836254": {
       "name": "paqna",
@@ -28,6 +28,6 @@
   "currentTest": null,
   "queueActive": false,
   "lastTestingSession": {
-    "EU": 1762891686
+    "EU": 1762959521
   }
 }
