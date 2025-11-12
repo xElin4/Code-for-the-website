@@ -4,20 +4,28 @@
       "name": "Elin4",
       "region": "EU",
       "preferredServer": "Faded",
-      "previousTier": "LT2",
-      "currentTier": "HT2"
+      "previousTier": "Unranked",
+      "currentTier": "Unranked"
     },
     "1201567952902836254": {
       "name": "paqna",
       "region": "EU",
       "preferredServer": "Faded",
-      "previousTier": "LT5",
-      "currentTier": "LT4"
+      "previousTier": "Unranked",
+      "currentTier": "Unranked"
+    },
+    "589174597849579561": {
+      "name": "UIGotLost",
+      "region": "EU",
+      "previousTier": "Unranked",
+      "currentTier": "Unranked"
     }
   },
   "waitlist": [],
   "queue": [],
-  "activeTesters": [],
+  "activeTesters": [
+    "1284965569568702622"
+  ],
   "waitlistMessageIds": {
     "EU": "1437896943161311334",
     "NA": "1437891900827766794",
@@ -28,6 +36,6 @@
   "currentTest": null,
   "queueActive": false,
   "lastTestingSession": {
-    "EU": 1762891907
+    "EU": 1762964285
   }
 }
