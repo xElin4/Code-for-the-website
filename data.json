@@ -4,8 +4,11 @@
       "name": "Elin4",
       "region": "EU",
       "preferredServer": "Faded",
-      "previousTier": "Unranked",
-      "currentTier": "LT4"
+      "previousTier": "LT4",
+      "currentTier": "HT1",
+      "testHistory": [
+        "HT1"
+      ]
     },
     "1201567952902836254": {
       "name": "paqna",
