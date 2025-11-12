@@ -23,7 +23,9 @@
   },
   "waitlist": [],
   "queue": [],
-  "activeTesters": [],
+  "activeTesters": [
+    "1284965569568702622"
+  ],
   "waitlistMessageIds": {
     "EU": "1437896943161311334",
     "NA": "1437891900827766794",
