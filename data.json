@@ -4,15 +4,15 @@
       "name": "Elin4",
       "region": "EU",
       "preferredServer": "Faded",
-      "previousTier": "HT2",
-      "currentTier": "LT1"
+      "previousTier": "Unranked",
+      "currentTier": "Unranked"
     },
     "1201567952902836254": {
       "name": "paqna",
       "region": "EU",
       "preferredServer": "Faded",
-      "previousTier": "LT5",
-      "currentTier": "LT4"
+      "previousTier": "Unranked",
+      "currentTier": "Unranked"
     }
   },
   "waitlist": [],
