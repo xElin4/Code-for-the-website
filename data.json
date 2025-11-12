@@ -4,8 +4,8 @@
       "name": "Elin4",
       "region": "EU",
       "preferredServer": "Faded",
-      "previousTier": "HT2",
-      "currentTier": "LT1"
+      "previousTier": "LT1",
+      "currentTier": "HT2"
     },
     "1201567952902836254": {
       "name": "paqna",
@@ -17,7 +17,9 @@
   },
   "waitlist": [],
   "queue": [],
-  "activeTesters": [],
+  "activeTesters": [
+    "1284965569568702622"
+  ],
   "waitlistMessageIds": {
     "EU": "1437896943161311334",
     "NA": "1437891900827766794",
