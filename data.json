@@ -5,11 +5,7 @@
       "region": "EU",
       "preferredServer": "Faded",
       "previousTier": "Unranked",
-      "currentTier": "Unranked",
-      "testHistory": [
-        "HT1",
-        "LT5"
-      ]
+      "currentTier": "Unranked"
     },
     "1201567952902836254": {
       "name": "paqna",
@@ -27,9 +23,7 @@
   },
   "waitlist": [],
   "queue": [],
-  "activeTesters": [
-    "1284965569568702622"
-  ],
+  "activeTesters": [],
   "waitlistMessageIds": {
     "EU": "1437896943161311334",
     "NA": "1437891900827766794",
@@ -40,6 +34,6 @@
   "currentTest": null,
   "queueActive": false,
   "lastTestingSession": {
-    "EU": 1762959521
+    "EU": 1762964285
   }
 }
