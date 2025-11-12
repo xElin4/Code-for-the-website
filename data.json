@@ -4,8 +4,8 @@
       "name": "Elin4",
       "region": "EU",
       "preferredServer": "Faded",
-      "previousTier": "discontinued",
-      "currentTier": "LT5",
+      "previousTier": "LT5",
+      "currentTier": "discontinued",
       "testHistory": [
         "HT1",
         "LT5"
