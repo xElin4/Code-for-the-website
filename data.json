@@ -5,8 +5,8 @@
       "region": "EU",
       "preferredServer": "Faded",
       "previousTier": "Unranked",
-      "currentTier": "Unranked",
-      "testsCompleted": 0
+      "currentTier": "LT1",
+      "testsCompleted": 1
     },
     "1201567952902836254": {
       "name": "paqna",
@@ -36,11 +36,7 @@
   },
   "testingChannelId": "1436450295457513503",
   "testingMessageId": "1437518044178940076",
-  "currentTest": {
-    "testeeId": "1284965569568702622",
-    "testerId": "1284965569568702622",
-    "ticketChannelId": "1441903652808687746"
-  },
+  "currentTest": null,
   "queueActive": false,
   "lastTestingSession": {
     "EU": 1762964285
