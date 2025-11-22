@@ -36,7 +36,11 @@
   },
   "testingChannelId": "1436450295457513503",
   "testingMessageId": "1437518044178940076",
-  "currentTest": null,
+  "currentTest": {
+    "testeeId": "1284965569568702622",
+    "testerId": "1284965569568702622",
+    "ticketChannelId": "1441903652808687746"
+  },
   "queueActive": false,
   "lastTestingSession": {
     "EU": 1762964285
